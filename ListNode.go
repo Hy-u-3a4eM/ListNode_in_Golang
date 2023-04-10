@@ -1,8 +1,9 @@
 package main
 
 import (
-	"ListNode/pkg/list_node"
 	"fmt"
+
+	"ListNode/pkg/list_node"
 )
 
 func addTwoNumbers(l1 *list_node.ListNode, l2 *list_node.ListNode) *list_node.ListNode {
