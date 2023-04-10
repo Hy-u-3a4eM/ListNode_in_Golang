@@ -22,3 +22,5 @@ func main() {
 		addTwoNumbers(list_node.SliceToListNode([]int{2, 4, 3}),
 			list_node.SliceToListNode([]int{5, 6, 4})))
 }
+
+//git lol
